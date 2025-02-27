@@ -14,6 +14,7 @@ Datasets:
   -  Vienna Dataset: 20,301 reviews.
   -  Aspen Dataset: 2,006 reviews.
   -  Both datasets include star ratings, hotel names, review titles, and review texts. Data is provided by the GitHub repository here.
+  -  https://github.com/youngjeong46/travel-recommender/tree/main/data/raw
 
 Experiment Setup:
 
